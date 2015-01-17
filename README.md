@@ -32,3 +32,8 @@ U+2D30〜U+2D7F
 | D | ⴽ | ⵍ | ⵝ |  | |
 | E | ⴾ | ⵎ | ⵞ |  | |
 | F | ⴿ | ⵏ | ⵟ | ⵯ | ⵿ |
+
+## フォント
+- IRCAM Font
+- Hapax Font
+- Google Noto Font
