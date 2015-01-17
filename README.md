@@ -11,8 +11,8 @@ Berber AcademiaでTuaregの伝統的ティフィナグ文字を基に現代的�
 ## Unicode
 
 ### 対応ブロック
-TifinaghブロックがUnicode v4.1に設置された。<br>
-現在はNeo Tifinaghのみが対応している。
+TifinaghブロックがUnicode v4.1で追加された。<br>
+現在はNeo Tifinaghと一部の伝統的ティフィナグ文字がこのブロックに登録されている。
 
 U+2D30〜U+2D7F
 
