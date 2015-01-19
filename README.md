@@ -47,4 +47,4 @@ U+2D30〜U+2D7F
 ### Google Noto Fonts
 [Google Noto Fonts Tifinagh part](http://www.google.com/get/noto/#/family/noto-sans-tfng)
 
-
+&copy; 2015
