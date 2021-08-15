@@ -117,10 +117,10 @@ U+2D30〜U+2D7F
 [Google Noto Fonts Tifinagh part](http://www.google.com/get/noto/#/family/noto-sans-tfng)
 
 ### リガチャ（合字）
-C1C2 => C1V1C2
+C1C2 => C1V1C2  
 L => C1C2
 
-&lt;b&gt;&lt;t&gt; => &lt;b>a&lt;t&gt;
+&lt;b&gt;&lt;t&gt; => &lt;b>a&lt;t&gt;  
 &lt;bt&gt; => &lt;bt&gt;
 
 ----------
